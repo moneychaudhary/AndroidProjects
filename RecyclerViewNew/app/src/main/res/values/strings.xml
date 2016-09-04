@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecyclerViewNew</string>
+    <string-array name="movie_list">
+        <item>Don</item>
+        <item>Badhshah</item>
+        <item>Welcome</item>
+        <item>Baby</item>
+    </string-array>
+
+</resources>
